@@ -1,0 +1,12 @@
+{
+  "name": "lapd",
+  "version": "1.0.0",
+  "description": "List all package dependencies/devDependencies",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app"
+  },
+  "keywords": ["list", "package", "dependencies"],
+  "author": "Subramanya Rao",
+  "license": "MIT"
+}

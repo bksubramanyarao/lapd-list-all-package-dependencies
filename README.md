@@ -11,9 +11,9 @@ List all package dependencies/devDependencies
 ---------------
 dependencies
 ---------------
-npm install ejs express express-fileupload express-mailer express-session express-validator mongoose passport passport-local session-file-store
+npm install --save ejs express express-fileupload express-mailer express-session express-validator mongoose passport passport-local session-file-store
 ---------------
 devDependencies
 ---------------
-npm install css-loader mini-css-extract-plugin node-sass nodemon sass-loader webpack webpack-cl
+npm install --save-dev css-loader mini-css-extract-plugin node-sass nodemon sass-loader webpack webpack-cl
 </pre>

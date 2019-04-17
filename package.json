@@ -1,8 +1,11 @@
 {
   "name": "lapd",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "List all package dependencies/devDependencies",
-  "main": "app.js",
+  "main": "./bin/app.js",
+  "bin": {
+    "lapd": "./bin/app.js"
+  },
   "scripts": {
     "dev": "node app"
   },

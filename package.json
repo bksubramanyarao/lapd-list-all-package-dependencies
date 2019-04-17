@@ -1,6 +1,6 @@
 {
   "name": "lapd",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "List all package dependencies/devDependencies",
   "main": "./bin/app.js",
   "bin": {

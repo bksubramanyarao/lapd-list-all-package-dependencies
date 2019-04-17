@@ -8,8 +8,8 @@ var { dependencies, devDependencies } = JSON.parse(package);
 
 
 
-var deps = 'npm install --save';
-var dev_deps = 'npm install --save-dev';
+var deps = 'npm install --save ';
+var dev_deps = 'npm install --save-dev ';
 
 for (var key in dependencies) {
   if (dependencies.hasOwnProperty(key)) {

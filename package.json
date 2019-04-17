@@ -6,10 +6,18 @@
   "bin": {
     "lapd": "./bin/app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bksubramanyarao/lapd-list-all-package-dependencies.git"
+  },
   "scripts": {
     "dev": "node app"
   },
-  "keywords": ["list", "package", "dependencies"],
+  "keywords": [
+    "list",
+    "package",
+    "dependencies"
+  ],
   "author": "Subramanya Rao",
   "license": "MIT"
 }
